@@ -165,12 +165,11 @@ Click the button to see the estimated survival likelihood.
 # Screenshots  
 <details>  
 <summary><strong>Click to Expand Screenshots</strong></summary><br>
+<img width="1440" height="900" alt="Screenshot 2025-11-25 at 3 19 08 AM" src="https://github.com/user-attachments/assets/7a716031-323c-4bc8-b018-2af9b12f7d9e" />
+<img width="1440" height="900" alt="Screenshot 2025-11-25 at 3 19 33 AM" src="https://github.com/user-attachments/assets/a5f0fdba-745b-4bf9-89c7-24077fb706ad" />
+<img width="1440" height="900" alt="Screenshot 2025-11-25 at 3 19 52 AM" src="https://github.com/user-attachments/assets/6d301716-8184-4f3a-a5f6-139d25b82de9" />
 
-*(Replace the image URLs below with your screenshots)*
 
-<img width="846" height="823" alt="Breast Cancer Survival GUI Screen 1" src="YOUR_SCREENSHOT_LINK_1" />
-
-<img width="846" height="823" alt="Breast Cancer Survival GUI Screen 2" src="YOUR_SCREENSHOT_LINK_2" />
 
 </details>
 
